@@ -1,0 +1,6 @@
+/.forceignore
+/.sf
+/.sfdx
+/config
+/README.md
+/sfdx-project.json
